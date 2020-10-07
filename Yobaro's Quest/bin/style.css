@@ -1,0 +1,59 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Seagram tfb;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80vh;
+    background-color: rgb(37, 37, 37);
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/001/593/593/large/zsolt-torok-dreamscape-scene1-1980x1080.jpg?1449145964");
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-size: x-large;
+
+}
+
+.container {
+    width: 800px;
+    max-width: 80%;
+    background-color: rgb(250, 234, 206);
+    padding: 20px;
+    border-radius: 3px;
+    box-shadow: 0 0 30px 4px;
+    position: fixed;
+}
+
+.container2 {
+    position: absolute;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.596);
+    top: 5px;
+    outline: wheat;
+  }
+
+.btn-grid {
+    display: grid;
+    grid-template-columns: repeat(1, auto);
+    gap: 10px;
+    margin-top: 35px;
+}
+
+.btn {
+    background-color: teal;
+    border: 2px solid rgb(41, 61, 63);
+    border-radius: 4px;
+    color: whitesmoke;
+    font-size: 19px;
+    height: 35px;
+    text-shadow: black;
+}
+
+.btn:hover {
+    border-color: rgb(121, 39, 39);
+}
