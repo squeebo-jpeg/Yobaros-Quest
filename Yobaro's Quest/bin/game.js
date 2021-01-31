@@ -93,7 +93,7 @@ const textNodes = [
   },
   {
     id: 4,
-    text: "You find yourself in the middle of a barn, you see droppings towards a dark and empty room. Smells like shit.",
+    text: "You find yourself in the middle of a barn, you see droppings towards a dark and empty room. Smells like feces.",
     options: [
       {
         text: 'Follow droppings.',
@@ -126,7 +126,7 @@ const textNodes = [
   },
   {
     id: 6,
-    text: "You follow the trail of shit, carefully treading as to not get any on your brand new Nike greaves. As you enter the dark room, you realize you cannot see and you are bound to step on poop at this point. Maybe you should return when you have a lantern. ",
+    text: "You follow the trail of dung, carefully treading as to not get any on your brand new Nike greaves. As you enter the dark room, you realize you cannot see and you are bound to step on poop at this point. Maybe you should return when you have a lantern. ",
     options: [
       {
         text: 'Search without Lantern.',
@@ -211,7 +211,7 @@ const textNodes = [
   },
   {
     id: 11,
-    text: "You use the matches you found with the lantern to light it and brighten the room. Piles upon piles of shit. Try to avoid it.",
+    text: "You use the matches you found with the lantern to light it and brighten the room. Piles upon piles of excretion. Try to avoid it.",
     options: [
       {
         text: 'Search the piles of defecation.',
@@ -229,7 +229,7 @@ const textNodes = [
   {
     
     id: 11.5,
-    text: "Piles upon piles of shit. Try to avoid it.",
+    text: "Piles upon piles of excretion. Try to avoid it.",
     options: [
       {
         text: 'Search the piles of defecation.',
@@ -251,7 +251,7 @@ const textNodes = [
   },
   {
     id: 12,
-    text: "You bravely search the dark room, powering through the smell. You take a wrong step while traversing through the piles of shit and ruin the new Nike greaves. Out of sheer dissapointment you collapse and die, in the shit, left to rot.",
+    text: "You bravely search the dark room, powering through the smell. You take a wrong step while traversing through the piles of dung and ruin the new Nike greaves. Out of sheer dissapointment you collapse and die, in the mess, left to rot.",
     options: [
       {
         text: 'Play Again?',
